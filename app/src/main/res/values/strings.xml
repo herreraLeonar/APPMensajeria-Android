@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mensajero</string>
+    <string name="text_numero_telefono">Número:</string>
+    <string name="text_conversacion">Conversación</string>
+    <string name="text_mensaje">Mensaje: </string>
+    <string name="text_enviar">Enviar</string>
+</resources>
